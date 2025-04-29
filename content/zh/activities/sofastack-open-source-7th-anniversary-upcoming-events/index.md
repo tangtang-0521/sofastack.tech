@@ -1,5 +1,5 @@
 ---
-title: "SOFAStack 开源七周年活动预告"
+title: "SOFAStack 开源七周年「七年同行，依然热爱」"
 authorlink: "https://github.com/sofastack"
 description: "SOFAStack 开源七周年啦，诚邀您来参加！"
 categories: "SOFAStack"
@@ -95,7 +95,7 @@ Koupleless PMC 成员，主要研究方向是云原生领域，参与维护与�
 
 ![](https://img.alicdn.com/imgextra/i3/O1CN01LEIAKi1ZOmWMNwXIZ_!!6000000003185-0-tps-720-484.jpg)
 
-本次活动 Koupleless 和 MOSN 议题相关分享资料点击查看👉
+本次活动 Koupleless 和 MOSN 议题相关分享资料点击查看👇🏼
 
 [梁栎鹏-Koupleless如何助力应用低成本演进至 Serverless](https://mdn.alipayobjects.com/huamei_soxoym/afts/file/A*ViDWRp3BnbwAAAAAAAAAAAAAerGAAQ/%E3%80%90PDF%E3%80%91%E6%A2%81%E6%A0%8E%E9%B9%8F-Koupleless%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E5%BA%94%E7%94%A8%E4%BD%8E%E6%88%90%E6%9C%AC%E6%BC%94%E8%BF%9B%E8%87%B3%20Serverless.pdf)
 
